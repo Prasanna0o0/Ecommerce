@@ -11,7 +11,7 @@ This project is a full-stack ecommerce website built with the MERN stack (MongoD
 - User Authentication: Secure login and registration.
 - Product Listings: Display products with details and pricing.
 - Shopping Cart: Add products to cart and manage quantities.
-- Checkout: Seamless payment processing with Stripe.
+- Checkout: Seamless Payment processing with Stripe Payment Gateway.
 - Responsive Design: Optimized for desktop and mobile devices.
 
  Technologies Used
